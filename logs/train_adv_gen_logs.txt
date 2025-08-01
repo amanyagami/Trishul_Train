@@ -1,0 +1,381 @@
+ 
+ Processing densenet3 model and with id = svhn 
+Weights not forund for densenet3 svhn, training .. 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+ 
+ Processing densenet3 model and with id = svhn 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+svhn Test Accuracy (('densenet3', 'svhn')): 92.08% 
+ Creating fgsm samples for  densenet3 svhn .. 
+Saved fgsm adversarial samples to ./adv_samples/densenet3_svhn_fgsm.pt 
+fgsm Test Accuracy (('densenet3', 'svhn')): 41.35% 
+ Creating pgd samples for  densenet3 svhn .. 
+Saved pgd adversarial samples to ./adv_samples/densenet3_svhn_pgd.pt 
+pgd Test Accuracy (('densenet3', 'svhn')): 11.19% 
+ Creating deepfool samples for  densenet3 svhn .. 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+ 
+ Processing densenet3 model and with id = svhn 
+model weights found at :./densenet3_svhn.pth 
+model loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = RMSProp
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = AdamW
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and kmnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and kmnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and kmnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and fmnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet34 and kmnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and mnist with training optim = SGD
+model loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and mnist with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and mnist with training optim = SGD
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader createdmodel loaded and loader created Creating fgsm samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader created Creating fgsm samples for  resnet34 mnist .. 
+Saved fgsm adversarial samples to ./adv_samples/SGD/resnet34_mnist_fgsm.pt 
+fgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Creating pgd samples for  resnet34 mnist .. 
+Saved pgd adversarial samples to ./adv_samples/SGD/resnet34_mnist_pgd.pt 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating deepfool samples for  resnet34 mnist .. 
+Saved deepfool adversarial samples to ./adv_samples/SGD/resnet34_mnist_deepfool.pt 
+deepfool Test Accuracy (('resnet34', 'mnist')): 22.42% 
+ Creating autoattack samples for  resnet34 mnist .. 
+Saved autoattack adversarial samples to ./adv_samples/SGD/resnet34_mnist_autoattack.pt 
+autoattack Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Creating cw samples for  resnet34 mnist .. 
+Saved cw adversarial samples to ./adv_samples/SGD/resnet34_mnist_cw.pt 
+cw Test Accuracy (('resnet34', 'mnist')): 80.00% 
+model loaded and loader created Creating fgsm samples for  densenet3 mnist .. 
+Saved fgsm adversarial samples to ./adv_samples/SGD/densenet3_mnist_fgsm.pt 
+fgsm Test Accuracy (('densenet3', 'mnist')): 96.65% 
+ Creating pgd samples for  densenet3 mnist .. 
+Saved pgd adversarial samples to ./adv_samples/SGD/densenet3_mnist_pgd.pt 
+pgd Test Accuracy (('densenet3', 'mnist')): 96.21% 
+ Creating deepfool samples for  densenet3 mnist .. 
+model loaded and loader createdfgsm Test Accuracy (('resnet34', 'mnist')): 79.44% 
+pgd Test Accuracy (('resnet34', 'mnist')): 78.11% 
+deepfool Test Accuracy (('resnet34', 'mnist')): 22.42% 
+autoattack Test Accuracy (('resnet34', 'mnist')): 78.03% 
+cw Test Accuracy (('resnet34', 'mnist')): 80.00% 
+model loaded and loader createdfgsm Test Accuracy (('densenet3', 'mnist')): 96.65% 
+pgd Test Accuracy (('densenet3', 'mnist')): 96.21% 
+ Creating deepfool samples for  densenet3 mnist .. 
+model loaded and loader created Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Creating fgsm samples for  resnet34 mnist .. 
+Saved fgsm adversarial samples to ./adv_samples/SGD/resnet34_mnist_fgsm.pt 
+ Test Accuracy (('resnet34', 'mnist')): 78.11% 
+ Creating pgd samples for  resnet34 mnist .. 
+Saved pgd adversarial samples to ./adv_samples/SGD/resnet34_mnist_pgd.pt 
+d Test Accuracy (('resnet34', 'mnist')): 22.42% 
+aut Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Creating autoattack samples for  resnet34 mnist .. 
+model loaded and loader created Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Creating fgsm samples for  resnet34 mnist .. 
+Saved fgsm adversarial samples to ./adv_samples/SGD/resnet34_mnist_fgsm.pt 
+ Test Accuracy (('resnet34', 'mnist')): 78.10% 
+ Creating pgd samples for  resnet34 mnist .. 
+Saved pgd adversarial samples to ./adv_samples/SGD/resnet34_mnist_pgd.pt 
+d Test Accuracy (('resnet34', 'mnist')): 22.42% 
+aut Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Creating autoattack samples for  resnet34 mnist .. 
+model loaded and loader created Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Test Accuracy (('resnet34', 'mnist')): 78.10% 
+d Test Accuracy (('resnet34', 'mnist')): 22.42% 
+aut Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Test Accuracy (('resnet34', 'mnist')): 80.00% 
+cw_strong Test Accuracy (('resnet34', 'mnist')): 80.00% 
+ Creating cw_strong samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader created Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Test Accuracy (('resnet34', 'mnist')): 78.10% 
+d Test Accuracy (('resnet34', 'mnist')): 22.42% 
+aut Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Test Accuracy (('resnet34', 'mnist')): 80.00% 
+cw_strong Test Accuracy (('resnet34', 'mnist')): 80.00% 
+ Creating cw_strong samples for  resnet34 mnist .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and mnist with training optim = SGD
+model loaded and loader created Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Test Accuracy (('resnet34', 'mnist')): 78.10% 
+d Test Accuracy (('resnet34', 'mnist')): 22.42% 
+aut Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Test Accuracy (('resnet34', 'mnist')): 80.00% 
+cw_strong Test Accuracy (('resnet34', 'mnist')): 80.00% 
+ Creating cw_strong samples for  resnet34 mnist .. 
+Saved cw_strong adversarial samples to ./adv_samples/SGD/resnet34_mnist_cw_strong.pt 
+autoattack_strong Test Accuracy (('resnet34', 'mnist')): 78.03% 
+ Creating autoattack_strong samples for  resnet34 mnist .. 
+Saved autoattack_strong adversarial samples to ./adv_samples/SGD/resnet34_mnist_autoattack_strong.pt 
+deepfool_strong Test Accuracy (('resnet34', 'mnist')): 22.42% 
+pgd_strong Test Accuracy (('resnet34', 'mnist')): 78.10% 
+ Creating pgd_strong samples for  resnet34 mnist .. 
+Saved pgd_strong adversarial samples to ./adv_samples/SGD/resnet34_mnist_pgd_strong.pt 
+fgsm_strong Test Accuracy (('resnet34', 'mnist')): 79.44% 
+ Creating fgsm_strong samples for  resnet34 mnist .. 
+Saved fgsm_strong adversarial samples to ./adv_samples/SGD/resnet34_mnist_fgsm_strong.pt 
+fgsm_strong Test Accuracy (('resnet34', 'mnist')): 78.89% 
+model loaded and loader created Test Accuracy (('densenet3', 'mnist')): 96.65% 
+ Test Accuracy (('densenet3', 'mnist')): 96.21% 
+ Creating deepfool samples for  densenet3 mnist .. 
+model loaded and loader createdmodel loaded and loader createdmodel loaded and loader created----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing densenet3 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet50 and svhn with training optim = SGD
+----------Gen_ADV-------------
+
+ processing resnet18 and svhn with training optim = SGD
+model loaded and loader created Creating fgsm samples for  resnet34 svhn .. 
+Saved fgsm adversarial samples to ./adv_samples/SGD/resnet34_svhn_fgsm.pt 
+ Creating pgd samples for  resnet34 svhn .. 
+Saved pgd adversarial samples to ./adv_samples/SGD/resnet34_svhn_pgd.pt 
+ Creating deepfool samples for  resnet34 svhn .. 
+Saved deepfool adversarial samples to ./adv_samples/SGD/resnet34_svhn_deepfool.pt 
+ Creating autoattack samples for  resnet34 svhn .. 
+----------Gen_ADV-------------
+
+ processing resnet34 and svhn with training optim = SGD
+model loaded and loader created Test Accuracy (('resnet34', 'svhn')): 49.36% 
+ Test Accuracy (('resnet34', 'svhn')): 22.90% 
+d Test Accuracy (('resnet34', 'svhn')): 10.48% 
+ Creating autoattack samples for  resnet34 svhn .. 
